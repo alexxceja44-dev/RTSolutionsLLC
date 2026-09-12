@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect width="100" height="100" rx="14" fill="#0d0d0d"/>
+  <text x="50" y="69" text-anchor="middle" fill="#c9992e"
+        font-family="Anton, Impact, 'Arial Narrow', Haettenschweiler, sans-serif"
+        font-size="47" font-weight="700" letter-spacing="-1">R.T</text>
+</svg>
